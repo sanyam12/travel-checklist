@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "223084538450",
+    "project_id": "travel-checklist-55f65",
+    "storage_bucket": "travel-checklist-55f65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223084538450:android:bef88dd664e5085b148d8b",
+        "android_client_info": {
+          "package_name": "com.example.travel_checklist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223084538450-u7fabnli8c5p7n07dp57dq1lsouuttr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcgybcAoEu_sSp8krQRZWwupqD0s27nGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223084538450-u7fabnli8c5p7n07dp57dq1lsouuttr0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "223084538450-jict5f7gd3n6staft207l5v21btraufo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.travelChecklist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
